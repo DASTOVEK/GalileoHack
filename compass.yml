@@ -1,0 +1,13 @@
+name: GalileoHack
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/b2d68b66-3537-4799-8210-91d1167efa21
+description: Born in HackUPC 2024, GNSS Tracker is an Android application that allows to retrieve and analyze data from the different GNSS satellite constelations.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
